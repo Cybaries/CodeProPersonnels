@@ -1,0 +1,67 @@
+{
+	"Profiles": [
+		{
+			"Name": "Ankit Ghoshal",
+			"image":"./images/ghoshal.png",
+			"Leetcode": "https://leetcode.com/ankitghosal2002/",
+			"GFG": "https://auth.geeksforgeeks.org/user/ankitghosal2002",
+			"CodeChef": "https://www.codechef.com/users/ankit20002"
+		},
+		{
+			"Name": "Animesh Mondal",
+			"image":"./images/animesh.png",
+			"Leetcode": "https://leetcode.com/animesh_266/",
+			"GFG":"",
+			"CodeChef":""
+		},
+		{
+			"Name": "Meenakshi Sinha",
+			"image":"./images/meenakshi.png",
+			"GFG":"",
+			"Leetcode": "https://leetcode.com/meenakshi_025/",
+			"CodeChef":""
+		},
+		{
+			"Name": "Diwakar Kumar",
+			"image":"./images/diwakar.png",
+			"Leetcode": "https://leetcode.com/Diwakar_1593/",
+			"GFG": "https://auth.geeksforgeeks.org/user/diwakar200kumar/",
+			"CodeChef":""
+		},
+		{
+			"Name":"Anupam Das",
+			"image":"./images/anupam.png",
+			"GFG":"",
+			"Leetcode":"https://leetcode.com/Anupam221/",
+			"CodeChef":""
+		},
+		{
+			"Name": "Anjali Jha",
+			"image":"./images/anjali.png",
+			"GFG":"",
+			"Leetcode":"https://leetcode.com/anjalijha042/",
+			"CodeChef":""
+		},
+		{
+			"Name": "Rohan Dev Singh",
+			"image":"./images/rohan.png",
+			"Leetcode":"",
+			"GFG":"",
+			"CodeChef":""
+		},
+		{
+			"Name": "Siddhi",
+			"image":"./images/siddhi.png",
+			"Leetcode":"",
+			"GFG":"",
+			"CodeChef":""
+		},
+		{
+			"Name":"Ankit Sharma",
+			"image":"./images/ankit.png",
+			"Leetcode":"",
+			"GFG":"",
+			"CodeChef":""
+		}
+	]
+}

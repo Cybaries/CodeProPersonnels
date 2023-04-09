@@ -1,0 +1,26 @@
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  align-items: center;
+}
+.grid > article {
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+}
+.grid > article {
+ text-align: center;
+}
+.grid > article img {
+  width: 15rem;
+  height: 15rem;
+  padding-top: 2rem;
+  border-radius: 50%;
+}
+.text {
+  padding: 0 20px 20px;
+}
+p > a{
+  color: #33a532;
+}
