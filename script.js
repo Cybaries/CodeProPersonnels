@@ -28,6 +28,11 @@ async function addArticles() {
         c.href = data.Profiles[ i ].CodeChef;
         c.textContent = 'CodeChef';
         c.target = '_blank';
+        let d = document.createElement('a');
+        d.className = 'Github';
+        d.href = data.Profiles[ i ].Github;
+        d.textContent = 'Github';
+        d.target = '_blank';
         h3.textContent = data.Profiles[i].Name;
         img.src = data.Profiles[i].image;
         p.textContent = data.Profiles[i].description;
@@ -38,6 +43,8 @@ async function addArticles() {
         p.appendChild(b);
         p.appendChild(document.createElement('br'));
         p.appendChild(c);
+        p.appendChild(document.createElement('br'));
+        p.appendChild(d);
         article.appendChild(p);
         grid.appendChild(article);
 
@@ -71,6 +78,13 @@ async function search() {
             for (let j = 0; j < article.length; j++) {
                 if (article[ j ].children[ 1 ].textContent.toLowerCase().indexOf(data.Profiles[ i ].Name.toLowerCase()) === 0) {
                     article[ j ].children[ 2 ].children[ 0 ].style.color = '#F7B500';
+                }
+            }
+        }
+        if (data.Profiles[i].Github === "") {
+            for (let j = 0; j < article.length; j++) {
+                if (article[ j ].children[ 1 ].textContent.toLowerCase().indexOf(data.Profiles[ i ].Name.toLowerCase()) === 0) {
+                    article[ j ].children[ 2 ].children[ 6 ].style.color = '#F7B500';
                 }
             }
         }

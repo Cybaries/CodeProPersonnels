@@ -5,63 +5,72 @@
 			"image":"./images/ghoshal.png",
 			"Leetcode": "https://leetcode.com/ankitghosal2002/",
 			"GFG": "https://auth.geeksforgeeks.org/user/ankitghosal2002",
-			"CodeChef": "https://www.codechef.com/users/ankit20002"
+			"CodeChef": "https://www.codechef.com/users/ankit20002",
+			"Github": "https://github.com/ankitbhoi/LeetCode"
 		},
 		{
 			"Name": "Animesh Mondal",
 			"image":"./images/animesh.png",
 			"Leetcode": "https://leetcode.com/animesh_266/",
 			"GFG":"https://auth.geeksforgeeks.org/user/animeshmondal1414/",
-			"CodeChef":"https://www.codechef.com/users/animesh_266"
+			"CodeChef":"https://www.codechef.com/users/animesh_266",
+			"Github": ""
 		},
 		{
 			"Name": "Meenakshi Sinha",
 			"image":"./images/meenakshi.png",
 			"GFG":"",
 			"Leetcode": "https://leetcode.com/meenakshi_025/",
-			"CodeChef":""
+			"CodeChef":"",
+			"Github": ""
 		},
 		{
 			"Name": "Diwakar Kumar",
 			"image":"./images/diwakar.png",
 			"Leetcode": "https://leetcode.com/Diwakar_1593/",
 			"GFG": "https://auth.geeksforgeeks.org/user/diwakar200kumar/",
-			"CodeChef":""
+			"CodeChef":"",
+			"Github": ""
 		},
 		{
 			"Name":"Anupam Das",
 			"image":"./images/anupam.png",
 			"GFG":"",
 			"Leetcode":"https://leetcode.com/Anupam221/",
-			"CodeChef":""
+			"CodeChef":"",
+			"Github": ""
 		},
 		{
 			"Name": "Anjali Jha",
 			"image":"./images/anjali.png",
 			"GFG":"",
 			"Leetcode":"https://leetcode.com/anjalijha042/",
-			"CodeChef":""
+			"CodeChef":"",
+			"Github": ""
 		},
 		{
 			"Name": "Rohan Dev Singh",
 			"image":"./images/rohan.png",
 			"Leetcode":"",
 			"GFG":"",
-			"CodeChef":""
+			"CodeChef":"",
+			"Github": ""
 		},
 		{
 			"Name": "Siddhi",
 			"image":"./images/siddhi.png",
 			"Leetcode":"https://leetcode.com/siddhi88/",
 			"GFG":"",
-			"CodeChef":""
+			"CodeChef":"",
+			"Github": ""
 		},
 		{
 			"Name":"Ankit Sharma",
 			"image":"./images/ankit.png",
 			"Leetcode":"",
 			"GFG":"",
-			"CodeChef":"https://www.codechef.com/users/anks02"
+			"CodeChef":"https://www.codechef.com/users/anks02",
+			"Github": ""
 		}
 	]
 }
